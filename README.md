@@ -99,10 +99,9 @@ This dataset card aims to be a base template for new datasets. It has been gener
 | University States             | Additional states or information related to the university.                        |
 
 
-### Dataset Sources [optional]
+### Dataset Sources [Site]
 
-www.smapse.com
-Github_link: 
+www.smapse.com 
 
 ## Dataset Card Contact
 
