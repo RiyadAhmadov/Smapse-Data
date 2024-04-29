@@ -70,33 +70,34 @@ question-answering
 
 This dataset card aims to be a base template for new datasets. It has been generated using [this raw template](https://github.com/huggingface/huggingface_hub/blob/main/src/huggingface_hub/templates/datasetcard_template.md?plain=1).
 
-## Dataset Details
-
 ### Dataset Description
 
-University Link: The URL or link associated with the university.
-University Name: The name of the university.
-University Rating: The rating or ranking of the university.
-University Logo Link: The URL or link to the logo image of the university.
-University Images Link Source: The URL or link to the source of images related to the university.
-University Description Head: The heading or title of the university description.
-University Descriptions: Detailed descriptions or information about the university.
-Information about University: Additional information or details about the university.
-University Subject: The main subjects or fields of study offered by the university.
-University Activities: Activities or extracurricular programs offered by the university.
-University Programs: Academic programs or courses offered by the university.
-University Address: The physical address or location of the university.
-Registration Fee: Fee required for registration or enrollment at the university.
-Schools: Schools or faculties within the university.
-Regions: Regions or areas associated with the university.
-Languages: Languages of instruction or languages spoken at the university.
-Sub Program: Subprograms or specialized areas of study within the university programs.
-price: Price or cost associated with university-related services or products.
-Currency: Currency used for pricing or financial transactions.
-Term: Term or semester information related to university programs.
-Country: Country where the university is located.
-City: City where the university is located.
-University States: Additional states or information related to the university.
+| Column Name                   | Description                                                                       |
+|-------------------------------|-----------------------------------------------------------------------------------|
+| University Link               | The URL or link associated with the university.                                   |
+| University Name               | The name of the university.                                                      |
+| University Rating             | The rating or ranking of the university.                                          |
+| University Logo Link          | The URL or link to the logo image of the university.                              |
+| University Images Link Source | The URL or link to the source of images related to the university.                |
+| University Description Head   | The heading or title of the university description.                               |
+| University Descriptions       | Detailed descriptions or information about the university.                        |
+| Information about University  | Additional information or details about the university.                           |
+| University Subject            | The main subjects or fields of study offered by the university.                   |
+| University Activities         | Activities or extracurricular programs offered by the university.                 |
+| University Programs           | Academic programs or courses offered by the university.                           |
+| University Address            | The physical address or location of the university.                               |
+| Registration Fee              | Fee required for registration or enrollment at the university.                    |
+| Schools                       | Schools or faculties within the university.                                       |
+| Regions                       | Regions or areas associated with the university.                                   |
+| Languages                     | Languages of instruction or languages spoken at the university.                    |
+| Sub Program                   | Subprograms or specialized areas of study within the university programs.         |
+| Price                         | Price or cost associated with university-related services or products.            |
+| Currency                      | Currency used for pricing or financial transactions.                               |
+| Term                          | Term or semester information related to university programs.                       |
+| Country                       | Country where the university is located.                                           |
+| City                          | City where the university is located.                                              |
+| University States             | Additional states or information related to the university.                        |
+
 
 ### Dataset Sources [optional]
 
