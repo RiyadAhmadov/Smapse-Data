@@ -63,11 +63,6 @@ dataset_info:
     num_examples: 6986
   download_size: 19405542
   dataset_size: 47359164
-configs:
-- config_name: default
-  data_files:
-  - split: train
-    path: data/train-*
 ---
     
 # Dataset Card for Dataset Name
