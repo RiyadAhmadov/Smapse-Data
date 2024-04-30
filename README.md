@@ -99,6 +99,10 @@ question-answering
 
 www.smapse.com 
 
+## Hugging Face Link
+
+https://huggingface.co/datasets/riyadahmadov/SchoolsTypesData/tree/main
+
 ## Dataset Card Contact
 
 riyadehmedov03@gmail.com
