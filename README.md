@@ -65,10 +65,6 @@ question-answering
   download_size: 19405542
   dataset_size: 47359164
 ---
-    
-# Dataset Card for Dataset Name
-
-This dataset card aims to be a base template for new datasets. It has been generated using [this raw template](https://github.com/huggingface/huggingface_hub/blob/main/src/huggingface_hub/templates/datasetcard_template.md?plain=1).
 
 ### Dataset Description
 
